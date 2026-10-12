@@ -1,0 +1,39 @@
+{
+  "building": "Z Block",
+  "campus": "UWE Frenchay",
+  "rooms": [
+    {
+      "code": "Z0010",
+      "floor": 0,
+      "center": { "x": 150, "y": 4 },
+      "bounds": {
+        "min_x": 145,
+        "max_x": 155,
+        "min_y": 2,
+        "max_y": 6
+      }
+    },
+    {
+      "code": "Z1010",
+      "floor": 1,
+      "center": { "x": 201, "y": 6 },
+      "bounds": {
+        "min_x": 195,
+        "max_x": 207,
+        "min_y": 4,
+        "max_y": 8
+      }
+    },
+    {
+      "code": "Z3031",
+      "floor": 3,
+      "center": { "x": 12, "y": 5 },
+      "bounds": {
+        "min_x": 10,
+        "max_x": 14,
+        "min_y": 3,
+        "max_y": 7
+      }
+    }
+  ]
+}
